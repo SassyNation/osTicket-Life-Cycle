@@ -1,1 +1,11 @@
-# osTicket-Life-Cycle
+# 💻osTicket-Life-Cycle💻
+- Configure roles by click Agents in the Agents Panel https://imgur.com/BSbI1nV, https://imgur.com/zi6Y00E, https://imgur.com/vMADp8I
+- Name your admin https://imgur.com/u1mD7h1
+- For the sake of the exercise, I checked all the boxes https://imgur.com/1ovNk0J, https://imgur.com/9LZKzo3, https://imgur.com/VhYNqx1
+- Add a new department under the Agents tab https://imgur.com/0J58AA0
+- Name & create your department https://imgur.com/IDcnfw3
+- Create your Teams https://imgur.com/vcCVtK8. You can add yourself https://imgur.com/fvbYpRY
+- Add a new agent, https://imgur.com/rdZnypQ, & assign their role https://imgur.com/HJSrqvm, & add them to the team https://imgur.com/W1LQiZD
+- Switch to Admin Panel to configure a New User https://imgur.com/UQxBys9, https://imgur.com/vhEWeZb
+- To configure an SLA, switch to Agent Panel & choose SLA under the Manage tab https://imgur.com/1ZdOeFM
+- Create the SLA https://imgur.com/OX5uJnq
